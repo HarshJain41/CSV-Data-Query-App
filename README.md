@@ -9,3 +9,11 @@ Features
 3. Natural Language Queries: Users can input queries in natural language to extract insights from the data.
 4. Intelligent Responses: The app uses advanced language models to process queries and return relevant responses.
 5. Query History: Users can view the history of their queries and responses.
+
+Here's the working link of the APP - https://huggingface.co/spaces/Harsh12/CSV_Query_App
+
+## Acknowledgements
+Pandas
+Streamlit
+PandasAI
+Langchain

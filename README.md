@@ -12,6 +12,12 @@ Features
 
 Here's the working link of the APP - https://huggingface.co/spaces/Harsh12/CSV_Query_App
 
+## 🔧 Work Ahead:
+
+1. Sometimes, it takes several prompting techniques to achieve the desired results. In this project, I've combined two tools—PandasAI and Langchain's Pandas DataFrame agent—to ensure that if one fails to produce an output, the other will succeed. I plan to integrate even more robust tools to enhance and streamline the workflow.
+
+2. Can Integrate additional language models to provide more robust and diverse query handling capabilities.
+
 ## Acknowledgements
 1. Pandas
 2. Streamlit

@@ -13,7 +13,7 @@ Features
 Here's the working link of the APP - https://huggingface.co/spaces/Harsh12/CSV_Query_App
 
 ## Acknowledgements
-Pandas
-Streamlit
-PandasAI
-Langchain
+1. Pandas
+2. Streamlit
+3. PandasAI
+4. Langchain
